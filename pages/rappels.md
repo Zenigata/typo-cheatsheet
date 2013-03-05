@@ -5,39 +5,25 @@ description: ""
 ---
 {% include JB/setup %}
 
-### Quand utiliser l'italique ?
+### Typographie
 
-* pour attirer l’attention sur un mot ou un groupe de mots ;
-* Les titres d'œuvres, de journaux, noms de navires ou d'avions : la Chartreuse de Parme.
-* Distinguer certains mots ou groupes de mots étrangers qui ne sont pas dans le dictionnaire ou qui ne sont pas considérés comme intégrés. « Encore un spam ! Damned ! »
-* Emploi de mots français dans un texte étranger traduit : « Le comte Boris salua Natalia Ivanovna d'un bonjour. »
-* Les locutions, citations et mots latins sont le plus souvent en italique. Mais attention ! il existe des mots latins intégrés (forum, et cetera, aquarium, cactus) et d'autres qui ne sont pas écrits avec une graphie latine (etc., géranium, média, médium qui s'opposent à media, medium).
+[Pensez](http://monsu.desiderio.free.fr/atelier/espace.html) à l'[espace](http://j.poitou.free.fr/pro/html/typ/espaces.html) [insécable](http://www.lanthologiste.fr/memo-typo/#espaces).  
+Apprenez à écrire [correctement](http://monsu.desiderio.free.fr/atelier/captitre.html) les [titres d'œuvre](http://www.druide.com/enquetes/titres-d%C5%93uvres-et-majuscules).  
+L'[italique](http://www.lanthologiste.fr/memo-typo/#italique) et les autres [attributs de caractère](http://monsu.desiderio.free.fr/atelier/souligne.html) ne s'emploient pas n'importe comment.  
+Il existe [trois](http://monsu.desiderio.free.fr/atelier/tiret.html) longueurs de tirets non [interchangeables](http://www.druide.com/enquetes/des-tirets-plus-ou-moins-%C3%A9tir%C3%A9s).  
+L'[accent](http://www.druide.com/enquetes/faut-il-accentuer-les-majuscules-et-les-capitales) a pleine valeur orthographique, y compris sur les [majuscules](http://j.poitou.free.fr/pro/html/typ/cap-accents.html).
 
-### Pluriel
+### Orthographe
 
-choux hiboux genoux cailloux poux joujoux bijoux  
-cals carnavals cérémonials chacals festivals récitals régals  
-cieux est le pluriel de ciel lorsqu'il est employé au sens imagé, tandis que ciels correspond au sens physique; les deux ne sont donc pas interchangeables.
+Voici la liste des adjectifs de couleur [invariables](http://monsu.desiderio.free.fr/atelier/adjcoul.html).  
+Il y a de nombreux [pluriels irréguliers](http://monsu.desiderio.free.fr/curiosites/plurnoms.html) en français.  
+Écrit-on [1,5 gramme ou 1,5 grammes](http://www.druide.com/enquetes/15-gramme-ou-15-grammes)&nbsp;?  
+Un point sur l'écriture des [dates](http://monsu.desiderio.free.fr/atelier/dates.html) et celle des [nombres](http://monsu.desiderio.free.fr/atelier/numeraux.html).  
+Comment faire la différence entre [ce qui ou ce qu'il](http://www.druide.com/enquetes/ce-qui-ou-ce-quil)&nbsp;?
 
-### Les adjectifs de couleur invariables
+### Écriture
 
-__Abricot__, absinthe, acajou, acier, agate, alabandine, aluminium, amadou, amande, amarante, ambre, améthyste, andrinople, anthracite, arc-en-ciel, ardoise, argent, aubergine, auburn, aurore, avocat, azalée, azur,  
-balais, banane, biche, bistre, bitume, bordeaux, brique, bronze, bruyère, bulle,  
-cachou, cadmium, café, canari, cannelle, capucine, caramel, carmélite, carmin, carnation, carotte, carthame, cassis, castor, céladon, cendre, cerise, chair, chamois, champagne, châtaigne, chaudron, chêne, chocolat, chrome, chrysolithe, chrysoprase, ciel, cinabre, citron, clémentine, cobalt, coccine, cœruleum, cognac, coquelicot, corail, cornaline, crème, crevette, cuivre, cyan, cyclamen,  
-ébène, écrevisse, églantine, émeraude, épinard,  
-feu, filasse, fraise, framboise, frêne, fuchsia,  
-garance, gazelle, géranium, giroflée, grenat, groseille,  
-hâle, havane, héliotrope, horizon, hyacinthe,  
-inde, indigo, isabelle, ivoire,  
-jade, jonquille,  
-__kaki__  
-lagune, laque, lavallière, lavande, lilas, lin,  
-magenta, mandarine, marengo, marine, marron, mastic, merdoie, miel, mine, minium, momie, moutarde,  
-nacarat, nacre, nankin, nil, noisette, noyer,  
-ocre, olive, olivine, opale, opéra, or (les ors sont substantifs), orange, outremer,  
-paille, parme, pastel, pastèque, pêche, perle, pernod, pervenche, pétrole, pie, pistache, platine, pomme, ponceau, potiron, praline, prune, puce,  
-réséda, rocou, rouille, rubis, sable, safran, sang, sanguine, saphir, sardoine, saumon, sépia, serin, sil, smalt, soufre, souris,  
-tabac, tango, thé, tilleul, tomate, topaze, tourterelle, turquin, turquoise,  
-vanille, vermillon, vison,  
-zinc
-
+Ne vous trompez plus dans la [concordance des temps](http://mapage.noos.fr/mp2/verbe_concordance_des_temps.htm).  
+Écrit-on [pis ou pire](http://www.druide.com/enquetes/que-choisir-entre-le-pis-et-le-pire)&nbsp;?  
+Un point sur les [adjectifs de périodicité](http://www.druide.com/enquetes/adjectifs-de-p%C3%A9riodicit%C3%A9).  
+Vous cherchez une [figure de style](http://monsu.desiderio.free.fr/atelier/figures.html)&nbsp;?

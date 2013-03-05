@@ -5,40 +5,35 @@ description: ""
 ---
 {% include JB/setup %}
 
-### Typo
+### Typographie
 
 [La ponctuation](http://www.la-ponctuation.com/point-virgule.html)  
-[1](http://monsu.desiderio.free.fr/sommaire.html)  
-[2](http://www.orthotypographie.fr/index.html)  
-[3](http://fr.wikisource.org/wiki/Aide:Guide_typographique)  
-[4](http://j.poitou.free.fr/pro/html/typ/resume.html)  
-[5](http://www.synapse-fr.com/typographie/TTM_0.htm)  
-[6](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_typographiques)  
-[7](http://artic.ac-besancon.fr/animateurs_ia70/Pages/regles_typographiques.htm)  
-[8](http://marcautret.free.fr/sigma/pratik/typo/)  
-[9](http://revues.refer.org/telechargement/fiche-typographie.pdf)  
-[10](http://www.lanthologiste.fr/memo-typo/)  
-[11](http://listetypo.free.fr/ortho/guillemets.html)  
-[12](http://www.interpc.fr/mapage/billaud/ponctua.html)  
-[13](http://www.uzine.net/article1802.html)
+[Au domicile des mots dits et écrits](http://monsu.desiderio.free.fr/sommaire.html)  
+[Orthotypographie](http://www.orthotypographie.fr/index.html)  
+[Résumé de règles typographiques](http://j.poitou.free.fr/pro/html/typ/resume.html)  
+[Synapse Développement](http://www.synapse-fr.com/typographie/TTM_0.htm)  
+[Les règles typographiques](http://artic.ac-besancon.fr/animateurs_ia70/Pages/regles_typographiques.htm)  
+[Typo & Tapuscrit](http://marcautret.free.fr/sigma/pratik/typo/)  
+[L'anthologiste](http://www.lanthologiste.fr/memo-typo/)  
+[Le guillemettage](http://listetypo.free.fr/ortho/guillemets.html)  
+[Règles de ponctuation et de typographie](http://www.interpc.fr/mapage/billaud/ponctua.html)  
+[Petit guide typographique à l’usage de l’internet](http://www.uzine.net/article1802.html)  
+[F A Q T Y P O](http://jacques-andre.fr/faqtypo/)  
+[Liste de diffusion « typographie »](https://sympa.inria.fr/sympa/info/typographie)  
+[Guide typographique de Wikisource](http://fr.wikisource.org/wiki/Aide:Guide_typographique)  
+[Conventions typographiques de Wikipédia](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_typographiques)  
+`pdf` [Règles typographiques de base](http://revues.refer.org/telechargement/fiche-typographie.pdf)
 
-### Composition
+### Écriture
 
-[14](http://cg.cyberscol.qc.ca/cybergroupe/plume/secours/accueil.html)
+[Au Secours!](http://cg.cyberscol.qc.ca/cybergroupe/plume/secours/accueil.html)  
+[Les dialogues](http://ffnetmodedemploi.free.fr/dialogue.php)  
+[Enquêtes linguistiques](http://druide.com/enquetes.html)
 
-### Orthographe/Conjugaison
+### Orthographe
 
-[15](http://conjugateur.fr/)  
-[16](http://druide.com/enquetes.html)  
-[17](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Fautes_d%27orthographe/Courantes)  
-[18](http://dvlf.uchicago.edu/)  
-[19](http://corrigeur.fr/pdf/rectifications-1990.pdf)  
-[20](http://mapage.noos.fr/mp2/aide_sommaire.htm)
-
-### Dialogue
-
-[21](http://ffnetmodedemploi.free.fr/dialogue.php)
-
-### Liens
-
-[22](http://jacques-andre.fr/faqtypo/)
+[Bréviaire d'orthographe française](http://mapage.noos.fr/mp2/aide_sommaire.htm)  
+[Fautes d'orthographe courantes](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Fautes_d%27orthographe/Courantes)  
+[Le Dictionnaire vivant de la langue française](http://dvlf.uchicago.edu/)  
+[Le conjugateur](http://conjugateur.fr/)  
+`pdf` [Réforme de 1990](http://corrigeur.fr/pdf/rectifications-1990.pdf)
