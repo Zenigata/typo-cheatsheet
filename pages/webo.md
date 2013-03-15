@@ -34,6 +34,7 @@ description: ""
 
 [Bréviaire d'orthographe française](http://mapage.noos.fr/mp2/aide_sommaire.htm)  
 [Fautes d'orthographe courantes](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Fautes_d%27orthographe/Courantes)  
+[Questions de langue](http://www.academie-francaise.fr/la-langue-francaise/questions-de-langue)  
 [Le Dictionnaire vivant de la langue française](http://dvlf.uchicago.edu/)  
 [Le conjugateur](http://conjugateur.fr/)  
 `pdf` [Réforme de 1990](http://corrigeur.fr/pdf/rectifications-1990.pdf)
