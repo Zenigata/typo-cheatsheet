@@ -20,7 +20,7 @@ Il y a de nombreux [pluriels irréguliers](http://monsu.desiderio.free.fr/curios
 Écrit-on [1,5 gramme ou 1,5 grammes](http://www.druide.com/enquetes/15-gramme-ou-15-grammes)&nbsp;?  
 Un point sur l'écriture des [dates](http://monsu.desiderio.free.fr/atelier/dates.html) et celle des [nombres](http://monsu.desiderio.free.fr/atelier/numeraux.html).  
 Comment faire la différence entre [ce qui ou ce qu'il](http://www.druide.com/enquetes/ce-qui-ou-ce-quil)&nbsp;?  
-On est content(s) : [avec ou sans s]((http://www.pincetonfrancais.be/v2/index.php/?2006/01/22/4-l-accord-des-on)) ?
+On est content(s) : [avec ou sans s](http://www.pincetonfrancais.be/v2/index.php/?2006/01/22/4-l-accord-des-on) ?
 
 ### Écriture
 
