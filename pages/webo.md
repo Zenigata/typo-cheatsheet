@@ -29,12 +29,16 @@ description: ""
 [Au Secours!](http://cg.cyberscol.qc.ca/cybergroupe/plume/secours/accueil.html)  
 [Les dialogues](http://ffnetmodedemploi.free.fr/dialogue.php)  
 [Enquêtes linguistiques](http://druide.com/enquetes.html)
+[Liens utiles](http://www.liensutiles.org/languefranc.htm)
 
 ### Orthographe
 
 [Bréviaire d'orthographe française](http://mapage.noos.fr/mp2/aide_sommaire.htm)  
 [Fautes d'orthographe courantes](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Fautes_d%27orthographe/Courantes)  
 [Questions de langue](http://www.academie-francaise.fr/la-langue-francaise/questions-de-langue)  
+[Langue-fr.net](http://www.langue-fr.net/spip.php?mot13)  
 [Le Dictionnaire vivant de la langue française](http://dvlf.uchicago.edu/)  
 [Le conjugateur](http://conjugateur.fr/)  
+[Dictionnaire Électronique des Synonymes](http://www.crisco.unicaen.fr/des/)  
+[FranceTerme](http://franceterme.culture.fr/FranceTerme/recherche.html)  
 `pdf` [Réforme de 1990](http://corrigeur.fr/pdf/rectifications-1990.pdf)
