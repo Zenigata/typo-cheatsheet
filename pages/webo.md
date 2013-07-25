@@ -19,6 +19,7 @@ description: ""
 [Règles de ponctuation et de typographie](http://www.interpc.fr/mapage/billaud/ponctua.html)  
 [Petit guide typographique à l’usage de l’internet](http://www.uzine.net/article1802.html)  
 [F A Q T Y P O](http://jacques-andre.fr/faqtypo/)  
+[Practical Typography](http://practicaltypography.com/)  
 [Liste de diffusion « typographie »](https://sympa.inria.fr/sympa/info/typographie)  
 [Guide typographique de Wikisource](http://fr.wikisource.org/wiki/Aide:Guide_typographique)  
 [Conventions typographiques de Wikipédia](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_typographiques)  
