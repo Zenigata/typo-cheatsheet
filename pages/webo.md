@@ -18,6 +18,7 @@ description: ""
 [Le guillemettage](http://listetypo.free.fr/ortho/guillemets.html)  
 [Règles de ponctuation et de typographie](http://www.interpc.fr/mapage/billaud/ponctua.html)  
 [Petit guide typographique à l’usage de l’internet](http://www.uzine.net/article1802.html)  
+[Connolly](http://servicesdedition.com/fr/langue/)  
 [F A Q T Y P O](http://jacques-andre.fr/faqtypo/)  
 [Practical Typography](http://practicaltypography.com/)  
 [Liste de diffusion « typographie »](https://sympa.inria.fr/sympa/info/typographie)  
