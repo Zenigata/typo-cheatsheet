@@ -24,6 +24,7 @@ description: ""
 [Liste de diffusion « typographie »](https://sympa.inria.fr/sympa/info/typographie)  
 [Guide typographique de Wikisource](http://fr.wikisource.org/wiki/Aide:Guide_typographique)  
 [Conventions typographiques de Wikipédia](http://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Conventions_typographiques)  
+[Minimi.biz](http://www.minini.biz/?Petit-guide-de-la-Typographie,399)  
 `pdf` [Règles typographiques de base](http://revues.refer.org/telechargement/fiche-typographie.pdf)
 
 ### Écriture
