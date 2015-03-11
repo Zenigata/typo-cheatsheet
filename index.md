@@ -40,6 +40,7 @@ _un dialogue_
 ### 2<sup>d</sup> 2<sup>de</sup> 2<sup>ds</sup> 2<sup>des</sup>
 
 ## Les titres de civilité
+
 ### M<sup>me</sup> M<sup>lle</sup> M. M<sup>mes</sup> M<sup>lles</sup> MM.
 
 ## Divers
