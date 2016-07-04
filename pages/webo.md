@@ -44,6 +44,7 @@ description: ""
 [Langue-fr.net](http://www.langue-fr.net/spip.php?mot13)  
 [Le Dictionnaire vivant de la langue française](http://dvlf.uchicago.edu/)  
 [Le conjugateur](http://conjugateur.fr/)  
+[80 pléonasmes à éviter](http://ecriture.scribay.com/2016/06/30/81-pleonasmes-eviter-correction-relecture/)  
 [Dictionnaire Électronique des Synonymes](http://www.crisco.unicaen.fr/des/)  
 [FranceTerme](http://franceterme.culture.fr/FranceTerme/recherche.html)  
 `pdf` [Réforme de 1990](http://corrigeur.fr/pdf/rectifications-1990.pdf)
