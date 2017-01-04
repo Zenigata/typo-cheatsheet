@@ -28,7 +28,7 @@ description: ""
 [TypoGui.de](http://www.typogui.de/)  
 `pdf` [Règles typographiques de base](http://revues.refer.org/telechargement/fiche-typographie.pdf)
 
-### Écritures
+### Écriture
 
 [Au Secours!](http://cg.cyberscol.qc.ca/cybergroupe/plume/secours/accueil.html)  
 [Les dialogues](http://ffnetmodedemploi.free.fr/dialogue.php)  
