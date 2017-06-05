@@ -33,7 +33,7 @@ description: ""
 [Au Secours!](http://cg.cyberscol.qc.ca/cybergroupe/plume/secours/accueil.html)  
 [Les dialogues](http://ffnetmodedemploi.free.fr/dialogue.php)  
 [Enquêtes linguistiques](http://druide.com/enquetes.html)  
-[Character-Code.com](http://www.character-code.com/)  
+[Character-Code.com](https://websitebuilders.com/tools/html-codes/a-z/)  
 [Liens utiles](http://www.liensutiles.org/languefranc.htm)
 
 ### Orthographe
