@@ -26,5 +26,5 @@ On est content(s) : [avec ou sans s](http://www.pincetonfrancais.be/v2/index.php
 
 Ne vous trompez plus dans la [concordance des temps](http://mapage.noos.fr/mp2/verbe_concordance_des_temps.htm).  
 Écrit-on [pis ou pire](http://www.druide.com/enquetes/que-choisir-entre-le-pis-et-le-pire)&nbsp;?  
-Un point sur les [adjectifs de périodicité](http://www.druide.com/enquetes/adjectifs-de-p%C3%A9riodicit%C3%A9).  
+Un point sur les [adjectifs de périodicité](https://www.druide.com/fr/enquetes/adjectifs-de-periodicite).  
 Vous cherchez une [figure de style](http://monsu.desiderio.free.fr/atelier/figures.html)&nbsp;?
